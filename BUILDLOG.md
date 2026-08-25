@@ -12,3 +12,6 @@ Designed a rough electronic circuit design
 Finalized electronic circuit design along with checking all the voltage and current requirements
 Refined CAD design for the skeleton
 Designed CAD designs for the conveyor roller and the sorter
+
+25/08/26
+Designed the CAD model for sprocket, have not added hole for screw yet
