@@ -16,3 +16,6 @@ Designed CAD designs for the conveyor roller and the sorter
 25/08/26
 Designed the CAD model for sprocket, have not added hole for screw yet
 Designed the CAD model for inner and outer chains
+
+30/08/26
+Wrote the classical CV code for classification
