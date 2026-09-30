@@ -1,4 +1,4 @@
-# Test Rig
+# Intelligent Sorting System
 
 This repository contains the mechanical, electronic, firmware, and computer vision components developed for the test rig of the autonomous sorting system.
 
