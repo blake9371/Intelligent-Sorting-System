@@ -93,7 +93,7 @@ The classification result is communicated to the ESP32, which subsequently contr
       Conveyor       Object Sorting
 ```
 
-## 9. Summary
+## 7. Summary
 
 The test rig integrates **3D-printed mechanical components, an MDF structure, a NEMA 17 stepper-driven conveyor, a Futaba S3003 servo-based sorting mechanism, ESP32 firmware, and a classical computer vision pipeline** into a single prototype system.
 
